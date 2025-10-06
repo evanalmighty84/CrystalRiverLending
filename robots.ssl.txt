@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+Sitemap: https://www.crystalriverlending.com/sitemap_index.xml
+
+Sitemap: http://www.crystalriverlending.com/sitemap_index.xml
